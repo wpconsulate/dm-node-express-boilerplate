@@ -1,0 +1,1 @@
+docker build -t litehqapi . && docker run -it litehqapi
